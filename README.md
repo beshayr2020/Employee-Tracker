@@ -24,7 +24,7 @@ A solution for managing a company's employees using node, inquirer, and MySQL
 1. Clone the repo
 
 ```bash
-git clone https://github.com/eric-gustafson1/employee-tracker.git
+git clone git@github.com:beshayr2020/Employee-Tracker.git
 ```
 
 2. Install dependencies
